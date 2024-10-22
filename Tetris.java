@@ -2,7 +2,7 @@ package Tetris;
 
 // Tetris.java
 //
-// Written in 2021 by John Wanamaker
+// Written in 2022 by John Wanamaker
 
 import java.awt.Color;
 import java.awt.Graphics;
